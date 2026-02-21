@@ -1,0 +1,1 @@
+![Foto de algoritmo]("C:\Users\casa\Downloads\WhatsApp Image 2026-02-21 at 4.29.46 PM.jpeg")

@@ -5,5 +5,4 @@ segundo_apellido = input("Ingrese su segundo apellido: ")
 edad = input("Ingrese su edad: ")
 anio_nacimiento = input("Ingrese su año de nacimiento: ")
 
-print("\n TU INFORMACION COMPLETA ES")
 print(f"Nombre completo: {primer_nombre} {segundo_nombre} {primer_apellido} {segundo_apellido} {edad}  {anio_nacimiento} ")

@@ -19,7 +19,7 @@ void main() {
   stdout.write("Ingrese su año de nacimiento: ");
   String? anioNacimiento = stdin.readLineSync();
 
-  print("\n TU INFORMACION COMPLETA ES:");
-  print("Nombre completo: $primerNombre $segundoNombre $primerApellido $segundoApellido  $edad   $anioNacimiento ");
+
+  print("TU INFORMACION COMPLETA ES: $primerNombre $segundoNombre $primerApellido $segundoApellido  $edad   $anioNacimiento ");
 
 }
