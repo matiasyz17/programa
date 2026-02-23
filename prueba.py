@@ -1,0 +1,8 @@
+primer_nombre = input("Ingrese su primer nombre: ")
+segundo_nombre = input("Ingrese su segundo nombre: ")
+primer_apellido = input("Ingrese su primer apellido: ")
+segundo_apellido = input("Ingrese su segundo apellido: ")
+edad = input("Ingrese su edad: ")
+anio_nacimiento = input("Ingrese su año de nacimiento: ")
+
+print(f"Nombre completo: {primer_nombre} {segundo_nombre} {primer_apellido} {segundo_apellido} {edad}  {anio_nacimiento} ")
